@@ -1,0 +1,10 @@
+.list {
+  
+}
+.list .title {
+  font-size: 125%;
+  font-weight: 600;
+}
+.list-item {
+  color: darkred;
+}
