@@ -1,0 +1,54 @@
+{
+  "media": [
+    {"Title":"Ghostbusters","Year":"1984","Rated":"PG","Released":"08 Jun 1984","Runtime":"105 min","Genre":"Action, Comedy, Fantasy","Director":"Ivan Reitman","Writer":"Dan Aykroyd, Harold Ramis","Actors":"Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis","Plot":"Three former parapsychology professors set up shop as a unique ghost removal service.","Language":"English","Country":"USA","Awards":"Nominated for 2 Oscars. Another 6 wins & 6 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMTkxMjYyNzgwMl5BMl5BanBnXkFtZTgwMTE3MjYyMTE@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.8/10"},{"Source":"Rotten Tomatoes","Value":"97%"},{"Source":"Metacritic","Value":"71/100"}],"Metascore":"71","imdbRating":"7.8","imdbVotes":"311,827","imdbID":"tt0087332","Type":"movie","DVD":"29 Jun 1999","BoxOffice":"N/A","Production":"Columbia Pictures","Website":"http://www.sonypictures.ca/english/movies/ghostbusters/","Response":"True", 
+      "scores": [
+        {
+          "user": "Emily",
+          "score": "3"
+        }, {
+          "user": "Rocky",
+          "score": "1"
+        }
+      ],
+      "tags": [0,1,2,3]
+    },
+    {"Title":"The Imaginarium of Doctor Parnassus","Year":"2009","Rated":"PG-13","Released":"08 Jan 2010","Runtime":"123 min","Genre":"Adventure, Comedy, Fantasy","Director":"Terry Gilliam","Writer":"Terry Gilliam, Charles McKeown","Actors":"Andrew Garfield, Christopher Plummer, Richard Riddell, Katie Lyons","Plot":"A traveling theater company gives its audience much more than they were expecting.","Language":"English, Russian, French","Country":"UK, Canada, France, USA","Awards":"Nominated for 2 Oscars. Another 5 wins & 21 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMTY4Njg4NTA3Nl5BMl5BanBnXkFtZTcwNzYxMzg5Mg@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"6.8/10"},{"Source":"Rotten Tomatoes","Value":"64%"},{"Source":"Metacritic","Value":"65/100"}],"Metascore":"65","imdbRating":"6.8","imdbVotes":"135,991","imdbID":"tt1054606","Type":"movie","DVD":"27 Apr 2010","BoxOffice":"$7,504,196","Production":"Sony Pictures Classics","Website":"http://www.sonyclassics.com/theimaginariumofdoctorparnassus/","Response":"True",
+    "scores": [
+      {
+        "user": "Emily",
+        "score": "3"
+      }, {
+        "user": "Rocky",
+        "score": "1"
+      }
+    ],
+    "tags": [0,1,2,3]},
+    {"Title":"Army of Darkness","Year":"1992","Rated":"R","Released":"19 Feb 1993","Runtime":"81 min","Genre":"Comedy, Horror","Director":"Sam Raimi","Writer":"Sam Raimi, Ivan Raimi","Actors":"Bruce Campbell, Embeth Davidtz, Marcus Gilbert, Ian Abercrombie","Plot":"A man is accidentally transported to 1300 A.D., where he must battle an army of the dead and retrieve the Necronomicon so he can return home.","Language":"English","Country":"USA","Awards":"10 wins & 7 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BODcyYzM4YTAtNGM5MS00NjU4LTk2Y2ItZjI5NjkzZTk0MmQ1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.6/10"},{"Source":"Rotten Tomatoes","Value":"72%"},{"Source":"Metacritic","Value":"57/100"}],"Metascore":"57","imdbRating":"7.6","imdbVotes":"146,745","imdbID":"tt0106308","Type":"movie","DVD":"06 Aug 2002","BoxOffice":"N/A","Production":"Universal Pictures","Website":"N/A","Response":"True",
+    "scores": [
+      {
+        "user": "Emily",
+        "score": "3"
+      }, {
+        "user": "Rocky",
+        "score": "1"
+      }
+    ],
+    "tags": [0,1,2,3]},
+    {"Title":"Time Bandits","Year":"1981","Rated":"PG","Released":"06 Nov 1981","Runtime":"110 min","Genre":"Adventure, Comedy, Fantasy","Director":"Terry Gilliam","Writer":"Michael Palin, Terry Gilliam","Actors":"John Cleese, Sean Connery, Shelley Duvall, Katherine Helmond","Plot":"A young boy accidentally joins a band of time travelling dwarves, as they jump from era to era looking for treasure to steal.","Language":"English","Country":"UK","Awards":"1 win & 8 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMTg2MDYwMzM0NF5BMl5BanBnXkFtZTcwODI3MTQ5OQ@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.0/10"},{"Source":"Rotten Tomatoes","Value":"91%"},{"Source":"Metacritic","Value":"79/100"}],"Metascore":"79","imdbRating":"7.0","imdbVotes":"51,638","imdbID":"tt0081633","Type":"movie","DVD":"30 Mar 1999","BoxOffice":"N/A","Production":"Paramount Home Video","Website":"N/A","Response":"True", 
+    "scores": [
+      {
+        "user": "Emily",
+        "score": "3"
+      }, {
+        "user": "Rocky",
+        "score": "1"
+      }
+    ],
+    "tags": [0,1,2,3]}
+  ],
+  "tags": [
+    { "id": 0, "name": "Terry Gilliam" },
+    { "id": 1, "name": "Fantasy" },
+    { "id": 2, "name": "Oct 2018" }
+  ]
+}
