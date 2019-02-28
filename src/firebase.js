@@ -1,4 +1,4 @@
-import firebase from 'firebase'
+import * as firebase from 'firebase'
 
 const config = {
   apiKey: "AIzaSyD7eyqMLOmL4TijGTC0n0HwhVvFx4fPX0s",
@@ -8,6 +8,9 @@ const config = {
   storageBucket: "media-list-86e4d.appspot.com",
   messagingSenderId: "49500698445"
 }
+
 firebase.initializeApp(config)
 
-export default firebase
+const databaseRef = firebase.database().ref();
+debugger
+export const todosRef = databaseRef.child("todos");

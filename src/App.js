@@ -1,7 +1,7 @@
 import React from 'react'
 import CssBaseline from '@material-ui/core/CssBaseline'
 import Grid from '@material-ui/core/Grid'
-import Row from '@material-ui/core/Row'
+// import Row from '@material-ui/core/Row'
 import './app.css'
 import List from './list'
 import Search from './search'

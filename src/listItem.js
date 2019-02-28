@@ -8,6 +8,7 @@ export default class ListItem extends React.Component {
         <div className="">
           <div className="image"></div>
           <div className="title">{this.props.data.Title}</div>
+          { this.props.children }
         </div>
       </div>
     );
